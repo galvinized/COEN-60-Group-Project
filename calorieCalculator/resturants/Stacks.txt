@@ -1,0 +1,97 @@
+Stacks
+23
+10:30 AM - 2:30 PM
+
+body:
+
+id0
+item Wheat Bread
+cal 160
+
+id1
+item White Bread
+cal 150
+
+id2
+item Sourdough Bread
+cal 150
+
+id3
+item Gluten Free White Bread
+cal 160
+
+id4
+item Ham
+cal 120
+
+id5
+item Smoked Turkey
+cal 80
+
+id6
+item House-roasted Beef
+cal 200
+
+id7
+item Bacon
+cal 130
+
+id8
+item Swiss Cheese
+cal 220
+
+id9
+item American Cheese
+cal 210
+
+id10
+item Provolone Cheese
+cal 200
+
+id11
+item Cheddar Cheese
+cal 230
+
+id12
+item Bell Pepper
+cal 5
+
+id13
+item Cucumber
+cal 0
+
+id14
+item Lettuce
+cal 0
+
+id15
+item Spinach
+cal 5
+
+id16
+item Onion
+cal 10
+
+id17
+item Tomato
+cal 5
+
+id18
+item Pickle
+cal 0
+
+id19
+item Pepperoncini
+cal 5
+
+id20
+item Fat Free Italian Dressing
+cal
+
+id21
+item Mayonaise
+cal 70
+
+id22
+item Mustard
+cal 15
