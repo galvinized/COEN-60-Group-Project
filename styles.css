@@ -110,12 +110,12 @@ body {
 	display: flex;
 	flex-direction: column;
 	width: 15%;
-	min-height: 800px;
+	min-height: 600px;
 }
 
 
 .profile-photo{
-	height:  400px;
+	min-height:  220px;
 	object-fit: cover;
 }
 .purpose{
@@ -124,9 +124,17 @@ body {
 	background-color: #FFFFFF;
 	padding: 50px;
 }
-
+.map-image{
+	width: 100%;
+}
+#trips-text{
+	style=margin: 50px; font-size: 25px;
+}
 
 @media only screen and (max-width: 800px){
+	#trips-text{
+		style=margin: 5px; font-size: 20px;
+	}
 	#filler{
 		height: 220px;
 	}
@@ -155,5 +163,9 @@ body {
 	.profile{
 		width: 100%;
 		min-height: 0px;
+	}
+	.profile-photo{
+		width:  100%;
+
 	}
 }
