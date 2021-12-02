@@ -1,0 +1,40 @@
+Acai
+9
+7:00 AM - 2:30 PM
+
+body:
+id0
+item Acai
+cal 60
+
+id1
+item Banana
+cal 25
+
+id2
+item Blueberries
+cal 15
+
+id3
+item Mango
+cal 15
+
+id4
+item Strawberry
+cal 10
+
+id5
+item Plain Granola
+cal 120
+
+id6
+item Dark Chocolate
+cal 80
+
+id7
+item Coconut
+cal 140
+
+id8
+item Oreo Cookies
+cal 130

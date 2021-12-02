@@ -1,0 +1,85 @@
+Fire
+20
+11:00 am - 8:30 pm
+
+body:
+
+id0
+item Seeded Hamburger Bun
+cal 160
+
+id1
+item Ciabatta
+cal 160
+
+id2
+item Sourdough Bread
+cal 150
+
+id3
+item Chicken Breast Sandwich 
+cal 160
+
+id4
+item Beef Burger
+cal 310
+
+id5 
+item Beyond Burger
+cal 280
+
+id6
+item Add Bacon
+cal 270
+
+id7
+item Cheddar Cheese
+cal 110
+
+id8
+item American Cheese
+cal 100
+
+id9
+item Provolone Cheese
+cal 100
+
+id10
+item Swiss Cheese
+cal 110
+
+id11
+item French Fries
+cal 140
+
+id12
+item Seasoned French Fries
+cal 200
+
+id13
+item Sweet Potato Fries
+cal 150
+
+id14
+item Onion
+cal 10
+
+id15
+item Tomato 
+cal 10
+
+id16
+item Lettuce
+cal 10
+
+id17
+item Mayonnaise
+cal 70
+
+id18
+item Mustard 
+cal 15
+
+id19
+item Ketchup
+cal 30

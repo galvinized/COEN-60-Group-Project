@@ -1,0 +1,105 @@
+Salad Bar
+25
+11:00 AM - 8:30 PM
+
+body:
+
+id0
+item Spinach
+cal 0
+
+id1
+item Romaine Lettuce
+cal 0
+
+id2
+item Spring Mix
+cal 5
+
+id3
+item Corn
+cal 5
+
+id4
+item Broccoli
+cal 10
+
+id5
+item Tomato
+cal 5
+
+id6
+item Cucumber
+cal 0
+
+id7
+item Carrots
+cal 10
+
+id8
+item Bell Pepper
+cal 5
+
+id9
+item Mushroom
+cal 5
+
+id10
+item Zucchini
+cal 0
+
+id11
+item Onion
+cal 10
+
+id12
+item Peas
+cal 20
+
+id13
+item Parmesan Cheese
+cal 25
+
+id14
+item Black Olives
+cal 20
+
+id15
+item Garbanzo Beans
+cal 70
+
+id16
+item Kidney Beans
+cal 60
+
+id17
+item Fat Free Italian Dressing
+cal 15
+
+id18
+item Caesar Dressing
+cal 110
+
+id19
+item Buttermilk Ranch Dressing
+cal 70
+
+id20
+item Crouton
+cal 90
+
+id21
+item Dried Cranberry
+cal 50
+
+id22
+item Chicken Breast
+cal 80
+
+id23
+item Cage Free Egg
+cal 80
+
+id24
+item Tofu
+cal 80

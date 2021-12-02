@@ -1,0 +1,53 @@
+La Parilla Breakfast
+12
+7:00 AM - 10:30 AM
+
+body:
+
+id0
+item Flour Tortilla
+cal 370
+
+id1
+item Wheat Tortilla
+cal 390
+
+id2
+item Bacon
+cal 270
+
+id3
+item Turkey Sausage
+cal 80
+
+id4
+item Monterey Jack Cheese
+cal 210
+
+id5
+item Tater Tots
+cal 230
+
+id6
+item Roasted Tomato Salsa
+cal 20
+
+id7
+item Onion
+cal 10
+
+id8
+item Garlic Fresh
+cal 0
+
+id9
+item Chilies
+cal 0
+
+id10
+item Tomato
+cal 5
+
+id11
+item Scrambled Egg
+cal 160

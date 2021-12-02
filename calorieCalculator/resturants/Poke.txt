@@ -1,0 +1,65 @@
+Poke
+15
+10:30 AM - 2:30 PM
+
+body:
+
+id0
+item Brown Rice
+cal 190
+
+id1
+item Rice
+cal 180
+
+id2
+item Tuna
+cal 70
+
+id3
+item Salmon
+cal 100
+
+id4
+item Tofu
+cal 80
+
+id5
+item Imitation Crab
+cal 80
+
+id6
+item Carrots
+cal 10
+
+id7
+item Cucumber
+cal 0
+
+id8
+item Scallion
+cal 10
+
+id9
+item Pineapple
+cal 15
+
+id10
+item Chilies
+cal 10
+
+id11
+item Fried Wonton Strips
+cal 60
+
+id12
+item Sriracha Mayonnaise
+cal 60
+
+id13
+item Wasabi
+cal 5
+
+id14
+item Soy Sauce
+cal 20
