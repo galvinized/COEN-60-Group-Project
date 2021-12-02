@@ -10,6 +10,9 @@ body {
 	text-align: center;
 	font-family: sans-serif;
 }
+#filler{
+	height: 24px;
+}
 .topnav {
 	width:100%;
 	position: fixed;
@@ -124,6 +127,9 @@ body {
 
 
 @media only screen and (max-width: 800px){
+	#filler{
+		height: 220px;
+	}
 	.topnav {
 	  flex-direction: column;
 		padding: 0px;

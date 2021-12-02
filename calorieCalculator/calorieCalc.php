@@ -3,6 +3,9 @@
 	<head>
 		<title>Benson Calorie Calculator</title>
 		<link type="text/css" rel="stylesheet" href="calorieCalc.css">
+
+		<link type="text/css" rel="stylesheet" href="../styles.css">
+
 	</head>
 		<?php
 
@@ -21,14 +24,14 @@
 	<body>
 
 
+	<div id="filler"></div><br>
 
-		<div class="topnav">
-		  <a href="#home">Home</a>
-		  <a href="#news">Calorie Calc</a>
-		  <a href="#contact">Members</a>
-		  <a href="#about">About</a>
-		  <a href="#tipsbox">Tips and Tricks</a>
-		</div>
+    <div class="topnav">
+      <a href="../index.html">Home</a>
+      <a href="../index.html#tipsbox">Tips</a>
+      <a href="../index.html#mapbox">Map</a>
+	  <a href="../index.html#members">Members</a>
+    </div>
 
 		<div class="checkBoxes">
 
