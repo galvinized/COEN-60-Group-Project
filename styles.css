@@ -1,0 +1,143 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#home{
+	margin: 0;
+  	font-family: Arial, Helvetica, sans-serif;
+  	background-color: #dbfffe;
+	text-align: center; 
+	font-family: sans-serif;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #00ada8;
+  color: black;
+}
+#image{
+  	height: 589px;
+ 	display: flex;
+ 	justify-content: center;
+ 	align-items: center;  background-color:#333 ;
+  background-image: url("bensonFood.jpg");
+}
+#middle{
+	color: white;
+	text-align: center; 
+	font-size: 50px;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#aboutbox{
+  text-align: center;
+  padding: 10px;
+  border: 5px solid black;
+  margin: 20px;
+}
+.about{
+	text-align: center; 
+	font-family: sans-serif;
+}
+.about-text{
+	margin: 50px; 
+	font-size: 25px;
+}
+
+
+
+
+.profile-page{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	background-color: #ADD8E6;
+	padding: 50px;
+}
+h3{
+	text-align: center;
+}
+
+.profile{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 15%;
+}
+
+
+.profile-photo{
+	width:  100%;
+}
+.purpose{
+	display: flex;
+	flex-direction: column;
+	background-color: #FFFFFF;
+	padding: 50px;
+}
+
+
+@media only screen and (max-width: 800px){
+
+	.topnav {
+	  overflow: hidden;
+	  background-color: #333;
+  	  display: flex;
+	  justify-content: center;
+	  flex-direction: column;
+	}
+	.topnav a {
+	  float: left;
+	  color: #f2f2f2;
+	  text-align: center;
+	  padding: 14px 16px;
+	  text-decoration: none;
+	  font-size: 17px;
+	}
+	#aboutbox{
+	  text-align: center;
+	  padding: 2px;
+	  border: 5px solid black;
+	}
+	.about-text{
+		margin: 10px; 
+		font-size: 20px;
+	}
+
+	#image{
+	  	height: 250px;
+	 	display: flex;
+	 	justify-content: center;
+	 	align-items: center;  background-color:#333 ;
+	  background-image: url("bensonFood.jpg");
+	}
+	.profile-page{
+		display: flex;
+		flex-direction: column;
+		background-color: #ADD8E6;
+		justify-content: center;
+	}
+	.profile{
+		justify-content: center;
+		display: flex;
+		flex-direction: column;
+		width: 100%;
+	}
+}
